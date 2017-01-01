@@ -14,7 +14,7 @@ A step by step example of using the Proposal Template
 
 First install LateX for any format Linux/Windows/Mac.
 
-** 
+''or ''
 
 Go to any online LateX editor 
 
